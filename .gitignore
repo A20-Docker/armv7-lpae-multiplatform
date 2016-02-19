@@ -1,6 +1,5 @@
 .CC
 system.sh
-KERNEL
 dl
 deploy
 ignore
